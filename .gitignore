@@ -1,3 +1,4 @@
 .vscode/
-csv_project/
 csvvenv/
+temp/
+.gitignore
