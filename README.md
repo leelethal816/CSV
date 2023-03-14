@@ -1,6 +1,3 @@
-# matplotlib_csv
-Advanced Python - Matplotlib - using CSV files
-
-this project is to teach students how to use CSV files in python
-this project also teaches students how to visualize the data using matplotlib
-
+In this project, we created 5 python files to visualize temperatures in Sitka and Death Valley.
+In the first 4 python files, we did in-class exercises on how to visualize temperatures in Sitka and how to create basic plots.
+In the python file for the assignment, I read through both file headers to obtain the proper indexes for TMIN, TMAX, DATE, and NAME. The values for each variable are stored in a different list. Then, I plotted two subplots with formatted date and minimum and maximum temperature with the top one being Sitka and bottom one being Death Valley.
